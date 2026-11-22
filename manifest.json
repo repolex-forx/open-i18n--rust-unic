@@ -370,6 +370,111 @@
       ],
       "ast": [
         "aggregate/ast/89f5f55f9cf8da4e2a697a1fd5018284c2b1eb0f/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/89f5f55f9cf8da4e2a697a1fd5018284c2b1eb0f.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "matches",
+          "ecosystem": "CARGO",
+          "version": "0.1.10",
+          "githubOrg": "SimonSapin",
+          "githubRepo": "rust-std-candidates",
+          "githubUrl": "https://github.com/SimonSapin/rust-std-candidates",
+          "source": "lsp",
+          "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/matches-0.1.10/lib.rs"
+        },
+        {
+          "packageName": "regex",
+          "ecosystem": "CARGO",
+          "version": "0.2.11",
+          "githubOrg": "rust-lang",
+          "githubRepo": "regex",
+          "githubCommit": "07800f02587c3206c23a6c6b410d89fd9c396432",
+          "githubTag": "0.2.11",
+          "githubUrl": "https://github.com/rust-lang/regex",
+          "source": "lsp",
+          "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/regex-0.2.11/src/re_unicode.rs"
+        },
+        {
+          "packageName": "lazy_static",
+          "ecosystem": "CARGO",
+          "version": "1.5.1",
+          "githubOrg": "rust-lang-nursery",
+          "githubRepo": "lazy-static.rs",
+          "githubUrl": "https://github.com/rust-lang-nursery/lazy-static.rs",
+          "source": "lsp",
+          "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lazy_static-1.5.1/src/lib.rs"
+        },
+        {
+          "packageName": "clap",
+          "ecosystem": "CARGO",
+          "version": "2.34.0",
+          "githubOrg": "clap-rs",
+          "githubRepo": "clap",
+          "githubCommit": "d51ae89656fda527ef1bccf53fca0ad78ecb8c29",
+          "githubTag": "v2.34.0",
+          "githubUrl": "https://github.com/clap-rs/clap",
+          "source": "lsp",
+          "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clap-2.34.0/src/args/arg.rs"
+        },
+        {
+          "packageName": "itertools",
+          "ecosystem": "CARGO",
+          "version": "0.7.11",
+          "githubOrg": "rust-itertools",
+          "githubRepo": "itertools",
+          "githubCommit": "73bb81aba95d9ed6ad3fde0404fc1341fce8ed06",
+          "githubTag": "0.7.11",
+          "githubUrl": "https://github.com/rust-itertools/itertools",
+          "source": "lsp",
+          "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/itertools-0.7.11/src/lib.rs"
+        },
+        {
+          "packageName": "assert_cli",
+          "ecosystem": "CARGO",
+          "version": "0.5.4",
+          "githubOrg": "assert-rs",
+          "githubRepo": "assert_cli",
+          "githubCommit": "189026bd80f67b538e3e77f3826bfa5b976ad731",
+          "githubTag": "v0.5.4",
+          "githubUrl": "https://github.com/assert-rs/assert_cli.git",
+          "source": "lsp",
+          "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/assert_cli-0.5.4/src/assert.rs"
+        },
+        {
+          "packageName": "prettytable-rs",
+          "ecosystem": "CARGO",
+          "version": "0.6.7",
+          "githubOrg": "phsym",
+          "githubRepo": "prettytable-rs",
+          "githubCommit": "db825d9959c9c6037202e7af4d6a42bdcd95a20c",
+          "githubTag": "v0.6.7",
+          "githubUrl": "https://github.com/phsym/prettytable-rs",
+          "source": "lsp",
+          "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prettytable-rs-0.6.7/src/format.rs"
+        },
+        {
+          "packageName": "rustc-serialize",
+          "ecosystem": "CARGO",
+          "version": "0.3.25",
+          "githubOrg": "rust-lang",
+          "githubRepo": "rustc-serialize",
+          "githubUrl": "https://github.com/rust-lang/rustc-serialize",
+          "source": "lsp",
+          "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rustc-serialize-0.3.25/src/json.rs"
+        },
+        {
+          "packageName": "quickcheck",
+          "ecosystem": "CARGO",
+          "version": "0.6.2",
+          "githubOrg": "BurntSushi",
+          "githubRepo": "quickcheck",
+          "githubCommit": "2143dc8ecfb01ab8fcf65e410243ba207ca23dc0",
+          "githubTag": "0.6.2",
+          "githubUrl": "https://github.com/BurntSushi/quickcheck",
+          "source": "lsp",
+          "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quickcheck-0.6.2/src/lib.rs"
+        }
       ]
     }
   ],
