@@ -1,0 +1,11 @@
+{
+  "org": "open-i18n",
+  "repo": "rust-unic",
+  "versions": [
+    {
+      "commit": "89f5f55f9cf8da4e2a697a1fd5018284c2b1eb0f",
+      "tag": "v0.9.0",
+      "parsed_at": "2026-11-22T09:59:40.697640+00:00"
+    }
+  ]
+}
